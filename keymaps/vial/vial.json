@@ -3,9 +3,7 @@
   "vendorId": "0x5262",
   "productId": "0x4E4B",
   "firmwareVersion": 0,
-  "lighting": {
-    "extends": "qmk_rgblight"
-  },
+  "lighting": "qmk_rgblight",
   "matrix": {"rows": 8, "cols": 5},
   "layouts": {
     "keymap": [
