@@ -1,4 +1,4 @@
-/*Remember to also change the color in keyboard_post_init_kb in boston.c to make the startup color match the layer 0 color */
+/* Remember to also change the color in keyboard_post_init_kb in x7s.c to make the startup color match the layer 0 color */
 const rgblight_segment_t PROGMEM capslock_layer[] = RGBLIGHT_LAYER_SEGMENTS(
     {0, 2, HSV_WHITE}  /*White*/
 );
